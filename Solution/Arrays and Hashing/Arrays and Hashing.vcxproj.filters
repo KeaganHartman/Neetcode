@@ -18,15 +18,15 @@
     <ClCompile Include="src\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Contains_Duplicate.cpp">
+    <ClCompile Include="src\Contains_Duplicate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Contains_Duplicate.h">
+    <ClInclude Include="src\Contains_Duplicate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="includes.h">
+    <ClInclude Include="src\includes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

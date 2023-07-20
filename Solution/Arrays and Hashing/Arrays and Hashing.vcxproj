@@ -143,12 +143,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Contains_Duplicate.cpp" />
+    <ClCompile Include="src\Contains_Duplicate.cpp" />
     <ClCompile Include="src\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Contains_Duplicate.h" />
-    <ClInclude Include="includes.h" />
+    <ClInclude Include="src\Contains_Duplicate.h" />
+    <ClInclude Include="src\includes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
