@@ -7,6 +7,6 @@ public:
 private:
 	// Given an array of (nums) and an integer (target), return indices of the two numbers such that they add up to (target).
 	// Assume each input has exactly one solution, and the same element will not be repeated.
-	std::vector<int> twoSum(std::vector<int>& nums, int target);
+	vector<int> twoSum(vector<int>& nums, int target);
 };
 

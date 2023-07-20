@@ -1,15 +1,15 @@
 #include "Valid_Anagram.h"
 Valid_Anagram::Valid_Anagram()
 {
-    std::cout << isAnagram("rat", "car");
+    cout << isAnagram("rat", "car");
 }
-bool Valid_Anagram::isAnagram(std::string s, std::string t)
+bool Valid_Anagram::isAnagram(string s, string t)
 {
     if (s.size() != t.size())
         return false;
 
-    std::unordered_map<char, int> mp_s;
-    std::unordered_map<char, int> mp_t;
+    unordered_map<char, int> mp_s;
+    unordered_map<char, int> mp_t;
     int len = s.size();
     for (size_t i = 0; i < len; i++)
     {

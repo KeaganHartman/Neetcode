@@ -1,18 +1,18 @@
 #include "Two_Sum.h"
 Two_Sum::Two_Sum()
 {
-	std::vector<int> input = { 2, 7, 11, 15 };
-	std::vector<int> rVec = twoSum(input, 9);
+	vector<int> input = { 2, 7, 11, 15 };
+	vector<int> rVec = twoSum(input, 9);
 	int len = rVec.size();
 	for (size_t i = 0; i < len; i++)
-		std::cout << rVec[i] << std::endl;
+		cout << rVec[i] << endl;
 	
 }
 
-std::vector<int> Two_Sum::twoSum(std::vector<int>& nums, int target)
+vector<int> Two_Sum::twoSum(vector<int>& nums, int target)
 {
-	std::vector<int> rVec;
-	std::unordered_map<int, int> mp_to_index;
+	vector<int> rVec;
+	unordered_map<int, int> mp_to_index;
 	int len = nums.size();
 	for (size_t i = 0; i < len; i++)
 	{
