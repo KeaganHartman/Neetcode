@@ -1,8 +1,9 @@
 #include "Contains_Duplicate.h"
 #include "Valid_Anagram.h"
+#include "Two_Sum.h"
 int main()
 {
-	Valid_Anagram* test = new Valid_Anagram();
+	Two_Sum* test = new Two_Sum();
 	delete test;
 	std::cin.get();
 }

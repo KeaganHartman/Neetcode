@@ -146,11 +146,13 @@
     <ClCompile Include="src\Contains_Duplicate.cpp" />
     <ClCompile Include="src\Main.cpp" />
     <ClCompile Include="src\Valid_Anagram.cpp" />
+    <ClCompile Include="src\Two_Sum.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Contains_Duplicate.h" />
     <ClInclude Include="src\includes.h" />
     <ClInclude Include="src\Valid_Anagram.h" />
+    <ClInclude Include="src\Two_Sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

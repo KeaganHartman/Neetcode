@@ -24,6 +24,9 @@
     <ClCompile Include="src\Valid_Anagram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Two_Sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Contains_Duplicate.h">
@@ -33,6 +36,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Valid_Anagram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Two_Sum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
