@@ -1,7 +1,8 @@
 #include "Contains_Duplicate.h"
+#include "Valid_Anagram.h"
 int main()
 {
-	Contains_Duplicate* test = new Contains_Duplicate();
+	Valid_Anagram* test = new Valid_Anagram();
 	delete test;
 	std::cin.get();
 }

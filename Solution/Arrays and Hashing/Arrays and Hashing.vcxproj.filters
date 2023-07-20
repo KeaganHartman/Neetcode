@@ -21,12 +21,18 @@
     <ClCompile Include="src\Contains_Duplicate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Valid_Anagram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Contains_Duplicate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\includes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Valid_Anagram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
