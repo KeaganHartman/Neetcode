@@ -148,6 +148,7 @@
     <ClCompile Include="src\Main.cpp" />
     <ClCompile Include="src\Valid_Anagram.cpp" />
     <ClCompile Include="src\Two_Sum.cpp" />
+    <ClCompile Include="src\Top_K_Frequent_Elements.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Group_Anagrams.h" />
@@ -155,6 +156,7 @@
     <ClInclude Include="src\includes.h" />
     <ClInclude Include="src\Valid_Anagram.h" />
     <ClInclude Include="src\Two_Sum.h" />
+    <ClInclude Include="src\Top_K_Frequent_Elements.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

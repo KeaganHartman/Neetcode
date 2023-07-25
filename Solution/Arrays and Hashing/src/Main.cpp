@@ -2,9 +2,10 @@
 #include "Valid_Anagram.h"
 #include "Two_Sum.h"
 #include "Group_Anagrams.h"
+#include "Top_K_Frequent_Elements.h"
 int main()
 {
-	Group_Anagrams* test = new Group_Anagrams();
+	Top_K_Frequent_Elements* test = new Top_K_Frequent_Elements();
 	delete test;
 	cin.get();
 }

@@ -30,6 +30,9 @@
     <ClCompile Include="src\Group_Anagrams.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Top_K_Frequent_Elements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Contains_Duplicate.h">
@@ -45,6 +48,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Group_Anagrams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Top_K_Frequent_Elements.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
