@@ -33,6 +33,9 @@
     <ClCompile Include="src\Top_K_Frequent_Elements.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Product_of_Array_Except_Self.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Contains_Duplicate.h">
@@ -51,6 +54,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Top_K_Frequent_Elements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Product_of_Array_Except_Self.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
