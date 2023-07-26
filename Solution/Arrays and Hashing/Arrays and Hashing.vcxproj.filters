@@ -36,6 +36,9 @@
     <ClCompile Include="src\Product_of_Array_Except_Self.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Valid_Sudoku.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Contains_Duplicate.h">
@@ -57,6 +60,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Product_of_Array_Except_Self.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Valid_Sudoku.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

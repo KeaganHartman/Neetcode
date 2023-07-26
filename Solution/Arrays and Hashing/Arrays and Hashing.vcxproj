@@ -150,6 +150,7 @@
     <ClCompile Include="src\Valid_Anagram.cpp" />
     <ClCompile Include="src\Two_Sum.cpp" />
     <ClCompile Include="src\Top_K_Frequent_Elements.cpp" />
+    <ClCompile Include="src\Valid_Sudoku.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Product_of_Array_Except_Self.h" />
@@ -159,6 +160,7 @@
     <ClInclude Include="src\Valid_Anagram.h" />
     <ClInclude Include="src\Two_Sum.h" />
     <ClInclude Include="src\Top_K_Frequent_Elements.h" />
+    <ClInclude Include="src\Valid_Sudoku.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

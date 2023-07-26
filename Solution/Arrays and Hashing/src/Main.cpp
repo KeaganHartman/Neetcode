@@ -4,9 +4,10 @@
 #include "Group_Anagrams.h"
 #include "Top_K_Frequent_Elements.h"
 #include "Product_of_Array_Except_Self.h"
+#include "Valid_Sudoku.h"
 int main()
 {
-	Product_of_Array_Except_Self* test = new Product_of_Array_Except_Self();
+	Valid_Sudoku* test = new Valid_Sudoku();
 	delete test;
 	cin.get();
 }
