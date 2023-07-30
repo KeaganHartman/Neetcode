@@ -5,9 +5,10 @@
 #include "Top_K_Frequent_Elements.h"
 #include "Product_of_Array_Except_Self.h"
 #include "Valid_Sudoku.h"
+#include "Longest_Consecutive_Sequence.h"
 int main()
 {
-	Valid_Sudoku* test = new Valid_Sudoku();
+	Longest_Consecutive_Sequence* test = new Longest_Consecutive_Sequence();
 	delete test;
 	cin.get();
 }

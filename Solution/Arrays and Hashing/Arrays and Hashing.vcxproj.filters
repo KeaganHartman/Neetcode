@@ -39,6 +39,9 @@
     <ClCompile Include="src\Valid_Sudoku.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Longest_Consecutive_Sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Contains_Duplicate.h">
@@ -63,6 +66,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Valid_Sudoku.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Longest_Consecutive_Sequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

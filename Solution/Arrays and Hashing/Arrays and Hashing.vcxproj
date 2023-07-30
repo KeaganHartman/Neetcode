@@ -143,6 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Longest_Consecutive_Sequence.cpp" />
     <ClCompile Include="src\Product_of_Array_Except_Self.cpp" />
     <ClCompile Include="src\Group_Anagrams.cpp" />
     <ClCompile Include="src\Contains_Duplicate.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="src\Valid_Sudoku.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Longest_Consecutive_Sequence.h" />
     <ClInclude Include="src\Product_of_Array_Except_Self.h" />
     <ClInclude Include="src\Group_Anagrams.h" />
     <ClInclude Include="src\Contains_Duplicate.h" />
