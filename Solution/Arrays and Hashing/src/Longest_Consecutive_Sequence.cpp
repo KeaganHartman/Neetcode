@@ -53,6 +53,7 @@ int Longest_Consecutive_Sequence::longestConsecutive(vector<int>& nums)
 
         mp[leftMost] = tcount;
         mp[rightMost] = tcount;
+        mp[curr] = tcount;
            
         if (tcount > rInt)
             rInt = tcount;
