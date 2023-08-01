@@ -1,5 +1,7 @@
-#include <iostream>
+#include "Valid_Parentheses.h"
 int main()
 {
-	std::cout << "Hello World!";
+	Valid_Parentheses* test = new Valid_Parentheses();
+	delete test;
+	cin.get();
 }
