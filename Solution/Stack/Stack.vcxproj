@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\MinStack.cpp" />
     <ClCompile Include="src\Main.cpp" />
     <ClCompile Include="src\Valid_Parentheses.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\MinStack.h" />
     <ClInclude Include="src\includes.h" />
     <ClInclude Include="src\Valid_Parentheses.h" />
   </ItemGroup>
