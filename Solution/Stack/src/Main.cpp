@@ -1,7 +1,7 @@
-#include "Valid_Parentheses.h"
+#include "Evaluate_Reverse_Polish.h"
 int main()
 {
-	Valid_Parentheses* test = new Valid_Parentheses();
+	Evaluate_Reverse_Polish* test = new Evaluate_Reverse_Polish();
 	delete test;
 	cin.get();
 }

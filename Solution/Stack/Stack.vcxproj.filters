@@ -24,6 +24,9 @@
     <ClCompile Include="src\MinStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Evaluate_Reverse_Polish.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Valid_Parentheses.h">
@@ -33,6 +36,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\MinStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Evaluate_Reverse_Polish.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
