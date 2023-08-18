@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Generate_Parenthesis.cpp" />
     <ClCompile Include="src\Evaluate_Reverse_Polish.cpp" />
     <ClCompile Include="src\MinStack.cpp" />
     <ClCompile Include="src\Main.cpp" />
     <ClCompile Include="src\Valid_Parentheses.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Generate_Parenthesis.h" />
     <ClInclude Include="src\Evaluate_Reverse_Polish.h" />
     <ClInclude Include="src\MinStack.h" />
     <ClInclude Include="src\includes.h" />
