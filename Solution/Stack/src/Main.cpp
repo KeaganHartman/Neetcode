@@ -1,7 +1,7 @@
-#include "Generate_Parenthesis.h"
+#include "Daily_Temperatures.h"
 int main()
 {
-	Generate_Parenthesis* test = new Generate_Parenthesis();
+	Daily_Temperatures* test = new Daily_Temperatures();
 	delete test;
 	cin.get();
 }
