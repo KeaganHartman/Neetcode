@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Largest_Rectangle_In_Histogram.cpp" />
     <ClCompile Include="src\Car_Fleet.cpp" />
     <ClCompile Include="src\Daily_Temperatures.cpp" />
     <ClCompile Include="src\Generate_Parenthesis.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="src\Valid_Parentheses.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Largest_Rectangle_In_Histogram.h" />
     <ClInclude Include="src\Car_Fleet.h" />
     <ClInclude Include="src\Daily_Temperatures.h" />
     <ClInclude Include="src\Generate_Parenthesis.h" />

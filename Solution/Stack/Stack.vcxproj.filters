@@ -36,6 +36,9 @@
     <ClCompile Include="src\Car_Fleet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Largest_Rectangle_In_Histogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Valid_Parentheses.h">
@@ -57,6 +60,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Car_Fleet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Largest_Rectangle_In_Histogram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
