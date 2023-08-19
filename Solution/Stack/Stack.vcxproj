@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Car_Fleet.cpp" />
     <ClCompile Include="src\Daily_Temperatures.cpp" />
     <ClCompile Include="src\Generate_Parenthesis.cpp" />
     <ClCompile Include="src\Evaluate_Reverse_Polish.cpp" />
@@ -135,6 +136,7 @@
     <ClCompile Include="src\Valid_Parentheses.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Car_Fleet.h" />
     <ClInclude Include="src\Daily_Temperatures.h" />
     <ClInclude Include="src\Generate_Parenthesis.h" />
     <ClInclude Include="src\Evaluate_Reverse_Polish.h" />

@@ -1,7 +1,7 @@
-#include "Daily_Temperatures.h"
+#include "Car_Fleet.h"
 int main()
 {
-	Daily_Temperatures* test = new Daily_Temperatures();
+	Car_Fleet* test = new Car_Fleet();
 	delete test;
 	cin.get();
 }
