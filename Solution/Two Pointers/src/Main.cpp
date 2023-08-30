@@ -1,8 +1,7 @@
 #include <iostream>
-#include "Valid_Palindrome.h"
+#include "TwoSumII_SortedArray.h"
 int main()
 {
-	Valid_Palindrome* test = new Valid_Palindrome();
-	delete test;
+	TwoSumII_SortedArray test;
 	std::cin.get();
 }

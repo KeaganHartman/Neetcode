@@ -21,12 +21,18 @@
     <ClCompile Include="src\Valid_Palindrome.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\TwoSumII_SortedArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\includes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Valid_Palindrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TwoSumII_SortedArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

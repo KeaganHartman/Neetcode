@@ -129,10 +129,12 @@
   <ItemGroup>
     <ClCompile Include="src\Main.cpp" />
     <ClCompile Include="src\Valid_Palindrome.cpp" />
+    <ClCompile Include="src\TwoSumII_SortedArray.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\includes.h" />
     <ClInclude Include="src\Valid_Palindrome.h" />
+    <ClInclude Include="src\TwoSumII_SortedArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
